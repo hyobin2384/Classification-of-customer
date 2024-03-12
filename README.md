@@ -1,1 +1,10 @@
-# Classification-of-customer
+## 주제
+대출 고객과 관련된 데이터 분석을 통해 고객의 대출등급을 예측하는 AI 모델 개발
+
+## Data
+- 데이콘에서 제공
+- 데이터 획득 : https://dacon.io/competitions/official/236222/overview/description
+
+## Dataset Info
+- **사용되는 속성**
+- 고객 ID, 대출금액, 대출기간, 근로기간, 주택소유상태, 연간소득, 부채_대비_소득_비율, 총계좌수, 대출목적, 최근_2년간_연체_횟수, 총상환원금, 총상환이자, 총연체금액, 연체계좌수, 대출등급(target)
